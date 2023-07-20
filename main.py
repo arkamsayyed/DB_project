@@ -5,4 +5,7 @@ to store user data into data base"""
 
 import os
 import logging
-import logging
+import Log_file
+
+list1 = []
+print(len(list1))
